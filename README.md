@@ -17,7 +17,7 @@ npx tailwindcss init
     "./src/**/*.{js,jsx,ts,tsx}",
   ],
 ```
-***Step 4:** Fo to ***./src/index.css*** and add the following css into it:
+***Step 4:** Go to ***./src/index.css*** and add the following css into it:
 ```
 @tailwind base;
 @tailwind components;
