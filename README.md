@@ -27,4 +27,4 @@ npx tailwindcss init
 **Step 5:** Start your project:
 ```
 npm start
-```
+``` 
